@@ -1,2 +1,8 @@
 Nombre: Juan David
 Apellido: Montoya Salazar
+
+Cedula: 1.023.456.781
+Sangre: 0+
+Cuidad: Cali
+
+
