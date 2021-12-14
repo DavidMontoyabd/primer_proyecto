@@ -5,4 +5,7 @@ Cedula: 1.023.456.781
 Sangre: 0+
 Cuidad: Cali
 
+Color: Azul
+Fruta: Banano
+
 
